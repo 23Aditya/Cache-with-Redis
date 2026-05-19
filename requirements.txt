@@ -1,0 +1,6 @@
+# LLM Query Caching Pipeline — Dependencies
+# Install with: pip install -r requirements.txt
+
+groq>=0.9.0          # Groq free API client
+redis>=5.0.0         # Redis client
+python-dotenv>=1.0.0 # Load .env variables
